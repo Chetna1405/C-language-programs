@@ -1,2 +1,3 @@
 # C-language-programs
-This repository contains all my C language programs made by me during 1st semester.
+This repository contains all my C language programs made by me.
+
